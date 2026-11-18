@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "90121438124",
+    "firebase_url": "https://rickandmortyapp-2b1c6-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "rickandmortyapp-2b1c6",
+    "storage_bucket": "rickandmortyapp-2b1c6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90121438124:android:fed25280a69fdedd10f009",
+        "android_client_info": {
+          "package_name": "com.example.marsphotos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt35o6WgbLSd9bIAlgXq0JPFftNgqPfPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
